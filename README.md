@@ -4,7 +4,3 @@ This is a simple recipe website project created as part of The Odin Project's cu
 ## Project Overview
 
 The Odin Recipes project serves as a hands-on exercise for practicing HTML and CSS. By contributing to this project, learners get to reinforce their knowledge of creating structured and styled web pages.
-
-## Getting Started
-
-To explore the recipes and contribute to the project, follow the instructions below:
